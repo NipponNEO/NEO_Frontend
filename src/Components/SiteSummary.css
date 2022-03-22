@@ -1,0 +1,126 @@
+.summary-h1 {
+  padding: 0 2.5rem;
+}
+
+.summary-h1 .interior-or-exterior {
+  border: 1px solid black;
+  border-bottom: none;
+  border-radius: 8px 8px 0 0;
+}
+
+.site-summary {
+  padding: 2.5rem;
+  padding-top: 0;
+  padding-bottom: 1rem;
+}
+
+.site-summary .card-outline {
+  border: 1px solid black;
+  border-radius: 0 0 8px 8px;
+}
+
+.site-summary .card-outline .row {
+  margin-bottom: 1.5rem;
+}
+
+.site-summary .card-outline .template-container {
+  margin: auto;
+  width: 12rem;
+  height: 6rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.site-summary .card-outline .template-container .display .display-body {
+  width: 8rem;
+  height: 5rem;
+  border: 1px solid grey;
+  border-radius: 4px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.site-summary .card-outline .template-container .display .display-body svg {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.site-summary .card-outline .template-container .display .display-addButton {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.site-summary .card-outline .template-container .display .display-addButton button {
+  border: none;
+  border: 1px solid grey;
+  width: 6rem;
+  border-radius: 6px;
+  position: relative;
+  bottom: 1rem;
+}
+
+.site-summary .card-outline .template-container .sub-button button {
+  height: 5rem;
+  border: none;
+  border: 1px solid grey;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  position: relative;
+  left: 0.5rem;
+}
+
+.site-summary .card-outline .template-container .add-button button {
+  height: 5rem;
+  border: none;
+  border: 1px solid grey;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  position: relative;
+  right: 0.5rem;
+}
+
+.site-summary .submit {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.site-summary .submit button {
+  border: none;
+  width: 6rem;
+  border-radius: 6px;
+  position: relative;
+  bottom: 1rem;
+  right: 1rem;
+  background-color: #08f269;
+  color: white;
+}
+/*# sourceMappingURL=SiteSummary.css.map */

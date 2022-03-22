@@ -1,0 +1,69 @@
+[{
+    "ProductID" : 1,
+    "ProductName" : "BedRoom 1",
+    "Discontinued" : true
+}, {
+    "ProductID" : 2,
+    "ProductName" : "BedRoom 2",
+    "Discontinued" : false
+}, {
+    "ProductID" : 3,
+    "ProductName" : "BedRoom 3",
+    "Discontinued" : false
+}, {
+    "ProductID" : 4,
+    "ProductName" : "Living Room 1",
+    "Discontinued" : false
+}, {
+    "ProductID" : 5,
+    "ProductName" : "Living Room 2",
+    "Discontinued" : false
+}, {
+    "ProductID" : 6,
+    "ProductName" : "Living Room 3",
+    "Discontinued" : false
+}, {
+    "ProductID" : 7,
+    "ProductName" : "Kitchen 1",
+    "Discontinued" : false
+}, {
+    "ProductID" : 8,
+    "ProductName" : "Kitchen 2",
+    "Discontinued" : false
+}, {
+    "ProductID" : 9,
+    "ProductName" : "Kitchen 3",
+    "Discontinued" : false
+}, {
+    "ProductID" : 10,
+    "ProductName" : "BathRoom 1",
+    "Discontinued" : false
+}, {
+    "ProductID" : 11,
+    "ProductName" : "BathRoom 2",
+    "Discontinued" : false
+}, {
+    "ProductID" : 12,
+    "ProductName" : "BathRoom 3",
+    "Discontinued" : false
+}, {
+    "ProductID" : 13,
+    "ProductName" : "Dining Room",
+     "Discontinued" : false
+}, {
+    "ProductID" : 14,
+    "ProductName" : "Study Room",
+    "Discontinued" : false
+}, {
+    "ProductID" : 15,
+    "ProductName" : "Service Area",
+    "Discontinued" : false
+}, {
+    "ProductID" : 16,
+    "ProductName" : "Stair Case",
+    "Discontinued" : false
+}, {
+    "ProductID" : 17,
+    "ProductName" : "Utility Room",
+    "Discontinued" : false
+}]
